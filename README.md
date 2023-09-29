@@ -58,5 +58,11 @@ eclipse、idea、myEclipse
 
 ### 4.6 ER图
 
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：图书馆
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
+
 ![ER图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220507180351.png)
 
